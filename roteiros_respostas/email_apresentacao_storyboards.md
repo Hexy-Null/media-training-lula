@@ -58,4 +58,4 @@ Estamos à disposição para ajustes e suporte durante os ensaios.
 Atenciosamente,
 Hexy Null
 
-Continuarei enviando este material todos os dias até algum assessor me responder que recebeu o conteúdo e que levará o material ao Presidente.
+P.S.: Continuarei enviando este material todos os dias até algum assessor me responder que recebeu o conteúdo e que levará o material ao Presidente.
