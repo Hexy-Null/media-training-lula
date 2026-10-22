@@ -33,11 +33,12 @@ Não demonstrar irritação com a palavra "amarelou". Responder sorrindo, com to
 #### 4. Objetivo Tático
 Neutralizar logo na abertura a narrativa de que Lula fugiu dos sigilos, inverter o ônus com o sigilo de 100 anos e transformar o desafio em uma proposta concreta que o adversário dificilmente aceitará ao vivo.
 
+
 ---
 
 ### Cena 2: Roberta Luchsinger, as Joias e o Ex-Chefe de Gabinete "Marcola"
 - **Bloco:** BLOCO 1
-- **TC:** [00:07]
+- **TC:** [00:06]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Sim
 
@@ -62,11 +63,12 @@ Não repetir o apelido "Marcola" em nenhum momento, para não reforçar a associ
 #### 4. Objetivo Tático
 Esvaziar a associação maliciosa do apelido com o crime organizado, mostrar que o caso está sob investigação independente e transformar a pergunta em contraste com a Abin Paralela e as joias sauditas.
 
+
 ---
 
 ### Cena 3: As Ilações contra Fábio Luís ("Lulinha")
 - **Bloco:** BLOCO 1
-- **TC:** [00:10]
+- **TC:** [00:09]
 - **Duração da Resposta:** 1 min 15 s
 - **Confronto Direto:** Sim
 
@@ -93,11 +95,12 @@ Esta é a provocação desenhada para tirar Lula do sério. A pausa inicial é o
 #### 4. Objetivo Tático
 Negar a Flávio o momento de descontrole emocional que ele busca, usar a ausência de condenação como fato central e conquistar empatia do público familiar da Globo com o apelo de pai.
 
+
 ---
 
 ### Cena 4: Lula Cobra Vorcaro, os R$ 134 Milhões e o Jatinho
 - **Bloco:** BLOCO 1
-- **TC:** [00:13]
+- **TC:** [00:12]
 - **Duração da Resposta:** 1 min
 - **Confronto Direto:** Sim
 
@@ -122,11 +125,12 @@ Dirigir-se a César Tralli na primeira frase, com respeito, para que o mediador 
 #### 4. Objetivo Tático
 Usar a cobrança de objetividade típica de Tralli a favor de Lula, retomar a marca de campanha do "risquinho" criada na Band e fixar a imagem de um adversário que não responde perguntas simples.
 
+
 ---
 
 ### Cena 5: Lula Cobra a Mansão Financiada pelo BRB
 - **Bloco:** BLOCO 1
-- **TC:** [00:16]
+- **TC:** [00:15]
 - **Duração da Resposta:** 1 min
 - **Confronto Direto:** Sim
 
@@ -149,11 +153,12 @@ Resposta curta e cortante. Tom de quem fala para o trabalhador, não para o adve
 #### 4. Objetivo Tático
 Converter o discurso de meritocracia do adversário em símbolo de privilégio, conectando o tema patrimonial à realidade de moradia do eleitor e a um programa concreto do governo.
 
+
 ---
 
 ### Cena 6: "O PT Voltou à Cena do Crime" — O Escândalo do INSS
 - **Bloco:** BLOCO 1
-- **TC:** [00:19]
+- **TC:** [00:18]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Sim
 
@@ -178,11 +183,72 @@ Começar com "Tenho, senador" de forma seca, sem hesitação. A parte central é
 #### 4. Objetivo Tático
 Retirar do adversário a bandeira do INSS, mostrando que a investigação e o ressarcimento são do atual governo, e devolver a acusação com os vínculos apontados pela PF no dossiê.
 
+
 ---
 
-### Cena 7: Direito de Resposta — A Insinuação "Marcola do PCC"
-- **Bloco:** BLOCO 2
+### Cena 7: O Figurino de "Estadista" de Tarcísio e o Fiasco de Pablo Marçal na Band
+- **Bloco:** BLOCO 1
+- **TC:** [00:21]
+- **Duração da Resposta:** 1 min 15 s
+- **Confronto Direto:** Sim
+
+#### 1. O Ataque de Flávio (Simulação)
+> "Presidente, eu vim aqui debater o futuro do Brasil com serenidade, equilíbrio e respeito, porque o brasileiro está cansado de ofensas e de divisões. Vamos falar de propostas reais para o cidadão."
+> "O senhor tem condições de manter um diálogo de alto nível ou vai continuar preso ao ressentimento e ao passado?"
+
+#### 2. Resposta Recomendada de Lula (Simulação)
+> *(Sorriso de canto, balançando a cabeça de leve, olhando nos olhos de Flávio)*
+>
+> Senador, eu fico até comovido de ver essa sua transformação. No debate da Band, o senhor veio fazendo caretas, com cola de caneta na mão, plateia de ex-juiz e tentando imitar o Pablo Marçal para lacrar na internet. Foi um espetáculo lamentável.
+>
+> Agora, como o povo rejeitou aquela baixaria, o governador Tarcísio precisou vir a Brasília para te dar aula de boas maneiras e colocar esse terno de falso estadista no senhor.
+>
+> *(Virando-se para a Câmera 1)*
+>
+> O povo brasileiro não cai nessa fantasia de última hora. Quem é descontrolado quando ninguém está olhando não vira presidente sereno só porque o marqueteiro mandou falar baixo.
+>
+> Se o senhor quer falar de futuro, responda o que fez nos seus 20 anos de mandato além de defender privilégios e votar contra os trabalhadores.
+
+#### 3. Direção de Palco
+Sorriso tranquilo e irônico no início, desmascarando a mudança repentina de postura. Não se exaltar. Ao citar a tutela de Tarcísio e Marçal, olhar direto para Flávio, e voltar com firmeza para a Câmera 1 na frase sobre a fantasia eleitoral.
+
+#### 4. Objetivo Tático
+Expor a artificialidade da mudança de tom operada por Tarcísio de Freitas após o fracasso na Band, neutralizar a tentativa de Flávio de posar de candidato equilibrado e relembrar ao eleitor de centro a agressividade do adversário.
+
+---
+
+### Cena 8: A Lancha da Covaxin, Garotas de Programa e o Rolex de Presente
+- **Bloco:** BLOCO 1
 - **TC:** [00:24]
+- **Duração da Resposta:** 1 min 30 s
+- **Confronto Direto:** Sim
+
+#### 1. O Ataque de Flávio (Simulação)
+- **1º Momento — Pergunta de Lula**: "Senador, no auge da pandemia, enquanto milhares morriam sem oxigênio, o senhor foi fazer churrasco numa lancha com os donos da Precisa Medicamentos e ganhou um relógio Rolex de presente?"
+- **2º Momento — A Fuga de Flávio**: "Mais uma mentira desesperada da esquerda. Eu sou senador, participo de reuniões institucionais e nunca cometi irregularidade. A CPI da Pandemia foi um circo político comandado pela oposição para perseguir a minha família."
+
+#### 2. Resposta Recomendada de Lula (Simulação)
+> *(Expressão de profunda indignação contida, tom pausado e solene)*
+>
+> Não foi circo, senador. Foi a **Revista Piauí e o ICL** que revelaram, com dados e testemunhas: no dia 17 de julho de 2020, com mais de 76 mil brasileiros mortos por Covid, o senhor estava no Lago Paranoá num churrasco em lancha de luxo.
+>
+> E quem pagou a conta? Os donos da **Precisa Medicamentos**, aquela mesma intermediária que tentava vender a vacina Covaxin superfaturada com suspeita de propina de um dólar por dose. Trouxeram garotas de programa de jato fretado e o senhor ainda saiu de lá com um **Rolex no braço**.
+>
+> *(Para a Câmera 1)*
+>
+> Enquanto você em casa chorava seus parentes sem vacina e sem ar nos hospitais, eles faziam festa com dinheiro da saúde. E depois o senador foi ao BNDES e à CPI defender esses mesmos empresários. Isso não é perseguição política. Isso é desrespeito com a dor do povo brasileiro.
+
+#### 3. Direção de Palco
+Zero agressividade descontrolada. Gravidade máxima no olhar. Pausa curta após falar "com um Rolex no braço". Falar com a dor de quem respeita as 700 mil vítimas da pandemia.
+
+#### 4. Objetivo Tático
+Explorar a revelação jornalística da Revista Piauí/ICL Notícias, estabelecendo o contraste moral insuperável entre o sofrimento das famílias na pandemia e a farra de luxo de Flávio com os operadores da Covaxin.
+
+---
+
+### Cena 9: Direito de Resposta — A Insinuação "Marcola do PCC"
+- **Bloco:** BLOCO 2
+- **TC:** [00:28]
 - **Duração da Resposta:** 30 s
 - **Confronto Direto:** Não
 
@@ -202,11 +268,12 @@ Agradecer a Tralli olhando para ele. Falar os 30 segundos com precisão, sem ult
 #### 4. Objetivo Tático
 Explorar o filtro rigoroso da Globo contra ofensas pessoais, transformar a decisão da emissora em reconhecimento público de que o ataque foi desleal e reposicionar Lula como o candidato equilibrado.
 
+
 ---
 
-### Cena 8: Tema Sorteado — Custo de Vida e Preço dos Alimentos
+### Cena 10: Tema Sorteado — Custo de Vida e Preço dos Alimentos
 - **Bloco:** BLOCO 2
-- **TC:** [00:27]
+- **TC:** [00:31]
 - **Duração da Resposta:** 2 min
 - **Confronto Direto:** Não
 
@@ -231,11 +298,12 @@ Abrir reconhecendo a dor do consumidor, com tom humilde. Contar as medidas nos d
 #### 4. Objetivo Tático
 Desarmar a cobrança da promessa de 2022 sem soberba, ancorar a comparação na inflação acumulada do governo anterior e sair do tema com medidas verificáveis que afetam diretamente o orçamento familiar.
 
+
 ---
 
-### Cena 9: Tema Sorteado — Segurança Pública, Facções e Maioridade Penal
+### Cena 11: Tema Sorteado — Segurança Pública, Facções e Maioridade Penal
 - **Bloco:** BLOCO 2
-- **TC:** [00:32]
+- **TC:** [00:36]
 - **Duração da Resposta:** 2 min
 - **Confronto Direto:** Não
 
@@ -260,11 +328,12 @@ Primeira frase seca e afirmativa, para fechar a armadilha do "a favor ou contra"
 #### 4. Objetivo Tático
 Retirar o rótulo de leniência com o crime, expor a contradição do projeto de lei sobre numeração de munição e apresentar o combate financeiro às facções como diferencial de governo.
 
+
 ---
 
-### Cena 10: Tema Sorteado — Saúde Pública, Dengue e Filas do SUS
+### Cena 12: Tema Sorteado — Saúde Pública, Dengue e Filas do SUS
 - **Bloco:** BLOCO 2
-- **TC:** [00:37]
+- **TC:** [00:41]
 - **Duração da Resposta:** 2 min
 - **Confronto Direto:** Não
 
@@ -291,11 +360,12 @@ Começar respondendo diretamente a Tralli, sem desvio, para não ser advertido. 
 #### 4. Objetivo Tático
 Responder à pergunta do mediador com programa concreto, rebater a crise da dengue com a vacinação pioneira no SUS e reativar a memória da pandemia sem parecer oportunista.
 
+
 ---
 
-### Cena 11: Tema Sorteado — Carga Tributária e a "Taxa das Blusinhas"
+### Cena 13: Tema Sorteado — Carga Tributária e a "Taxa das Blusinhas"
 - **Bloco:** BLOCO 2
-- **TC:** [00:42]
+- **TC:** [00:46]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Não
 
@@ -318,11 +388,12 @@ Tom didático e confiante, de quem domina o tema. Ênfase vocal nas três medida
 #### 4. Objetivo Tático
 Tirar o foco da taxa das compras internacionais, deslocar a discussão para a isenção do IR e a cesta básica sem imposto e marcar o contraste entre promessa não cumprida e medida entregue.
 
+
 ---
 
-### Cena 12: Tema Sorteado — Educação e Juventude
+### Cena 14: Tema Sorteado — Educação e Juventude
 - **Bloco:** BLOCO 2
-- **TC:** [00:46]
+- **TC:** [00:50]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Não
 
@@ -345,11 +416,42 @@ Tom entusiasmado e esperançoso. Falar do Pé-de-Meia como algo concreto, sem n�
 #### 4. Objetivo Tático
 Responder com programa de alta aprovação e fácil compreensão, ligar educação à segurança pública e rebater o discurso de "doutrinação" com a imagem do filho do trabalhador na universidade.
 
+
 ---
 
-### Cena 13: Tríplex, Sítio e o Rótulo de "Descondenado"
+### Cena 15: O Golpe da "Suspensão de Dívidas" e o Desmonte do Salário Mínimo
+- **Bloco:** BLOCO 2
+- **TC:** [00:54]
+- **Duração da Resposta:** 1 min 30 s
+- **Confronto Direto:** Sim
+
+#### 1. O Ataque de Flávio (Simulação)
+> "O governo Lula endividou as famílias e não resolve nada. No meu governo, nós vamos colocar R$ 200 bilhões para suspender as cobranças de dívidas por até um ano e dar fôlego para o brasileiro voltar a crescer, enquanto o PT arrocha o salário e cria impostos."
+
+#### 2. Resposta Recomendada de Lula (Simulação)
+> *(Olhar fixo, tom pedagógico e firme)*
+>
+> Senador, prometer calote geral de seis meses a um ano na televisão é muito fácil, mas qualquer economista sério já alertou: essa sua proposta trava os bancos e explode os juros para todo mundo que precisa de crédito amanhã. É estelionato eleitoral.
+>
+> Nós fizemos diferente com responsabilidade no **Desenrola Brasil**: sentamos com os credores e limpamos o nome de mais de 15 milhões de brasileiros com descontos de até 90%, sem quebrar o sistema financeiro.
+>
+> *(Para a Câmera 1)*
+>
+> E tem mais: enquanto a rede deles espalha mentira com inteligência artificial prometendo salário de R$ 3 mil, o projeto econômico do partido dele quer acabar com o aumento real do salário mínimo e desvincular a aposentadoria da inflação.
+>
+> No meu governo, o salário mínimo sobe todo ano **acima da inflação** por lei. Essa é a diferença entre promessa irresponsável e comida de verdade no prato.
+
+#### 3. Direção de Palco
+Tom de administrador experiente que protege a economia do país. Apontar para o adversário ao dizer "estelionato eleitoral". Voltar para a câmera com empatia ao falar do salário mínimo e da aposentadoria.
+
+#### 4. Objetivo Tático
+Desmascarar a proposta eleitoreira de suspensão de dívidas de Flávio, defender o Desenrola Brasil e denunciar o plano de corte de gastos que atinge o piso do salário mínimo e dos aposentados.
+
+---
+
+### Cena 16: Tríplex, Sítio e o Rótulo de "Descondenado"
 - **Bloco:** BLOCO 3
-- **TC:** [00:53]
+- **TC:** [01:00]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Sim
 
@@ -372,11 +474,12 @@ Não entrar em detalhes técnicos do processo. Primeira frase curta, olhando nos
 #### 4. Objetivo Tático
 Encerrar o tema Lava Jato em uma única resposta, com três fatos fortes (suspeição de Moro, ONU, Moro ministro), e devolver ao adversário a acusação de escapar por tecnicalidade.
 
+
 ---
 
-### Cena 14: Cartões Corporativos, Viagens e os Móveis do Alvorada
+### Cena 17: Cartões Corporativos, Viagens e os Móveis do Alvorada
 - **Bloco:** BLOCO 3
-- **TC:** [00:57]
+- **TC:** [01:04]
 - **Duração da Resposta:** 1 min 15 s
 - **Confronto Direto:** Sim
 
@@ -399,11 +502,12 @@ Tom de estadista ao falar das viagens, sem defensividade. Resposta sobre o Alvor
 #### 4. Objetivo Tático
 Reenquadrar viagens como missão de Estado, esvaziar o tema dos móveis em uma frase e inverter a acusação com os gastos do cartão revelados após o fim do sigilo do governo anterior.
 
+
 ---
 
-### Cena 15: Lula Cobra o Voto contra a Licença-Maternidade
+### Cena 18: Lula Cobra o Voto contra a Licença-Maternidade
 - **Bloco:** BLOCO 3
-- **TC:** [01:01]
+- **TC:** [01:07]
 - **Duração da Resposta:** 1 min
 - **Confronto Direto:** Sim
 
@@ -426,11 +530,12 @@ Primeira frase olhando para Flávio, firme. Contar "49, 48, um" com pausa dramá
 #### 4. Objetivo Tático
 Explorar a maior vulnerabilidade de Flávio no eleitorado feminino, majoritário na audiência da Globo, desmontar o escudo familiar e reforçar a marca da evasão iniciada na Band.
 
+
 ---
 
-### Cena 16: Lula Cobra as Rachadinhas e os Depósitos em Dinheiro Vivo
+### Cena 19: Lula Cobra as Rachadinhas e os Depósitos em Dinheiro Vivo
 - **Bloco:** BLOCO 3
-- **TC:** [01:04]
+- **TC:** [01:10]
 - **Duração da Resposta:** 1 min
 - **Confronto Direto:** Sim
 
@@ -453,11 +558,12 @@ Resposta curta e dura. Usar o mesmo argumento que Flávio usa contra Lula ("anul
 #### 4. Objetivo Tático
 Devolver ao adversário o próprio argumento do "descondenado", fixar a palavra "rachadinha" na memória do eleitor e manter a contagem de perguntas não respondidas.
 
+
 ---
 
-### Cena 17: Insinuações sobre Idade e Cansaço
+### Cena 20: Insinuações sobre Idade e Cansaço
 - **Bloco:** BLOCO 3
-- **TC:** [01:07]
+- **TC:** [01:13]
 - **Duração da Resposta:** 45 s
 - **Confronto Direto:** Sim
 
@@ -481,11 +587,42 @@ Voz cheia, ritmo ágil, postura ereta e sorriso genuíno. Listar os temas não r
 #### 4. Objetivo Tático
 Desmontar a insinuação de idade pela demonstração, não pela defesa, e transformar o ataque em mais uma vitrine das perguntas que o adversário evitou.
 
+
 ---
 
-### Cena 18: Lula Cobra a Abin Paralela e a Reunião de 2020
+### Cena 21: A Explosão "Flávio Miliciano" e a Medalha ao Chefe do Escritório do Crime
 - **Bloco:** BLOCO 3
-- **TC:** [01:10]
+- **TC:** [01:15]
+- **Duração da Resposta:** 1 min 30 s
+- **Confronto Direto:** Sim
+
+#### 1. O Ataque de Flávio (Simulação)
+> "O presidente Lula defende saidinha de preso e passa a mão na cabeça de criminoso. Nós temos tolerância zero contra a criminalidade. O nosso compromisso é com a polícia, com a ordem e com o cidadão de bem."
+
+#### 2. Resposta Recomendada de Lula (Simulação)
+> *(Tom sereno, mas incisivo, olhando direto para o adversário)*
+>
+> Senador, o senhor falar de segurança pública e de "tolerância zero" é uma ofensa à inteligência do brasileiro.
+>
+> O Brasil inteiro viu as buscas dispararem na internet depois do último debate: **o senhor foi o deputado que entregou a Medalha Tiradentes dentro da cadeia para o capitão Adriano da Nóbrega**, chefe do Escritório do Crime e pistoleiro de aluguel.
+>
+> E não parou aí: a mãe e a esposa daquele miliciano foram nomeadas no seu gabinete na Alerj, devolvendo salário no esquema de rachadinha que o senhor até hoje não explicou.
+>
+> *(Para a Câmera 1)*
+>
+> Quem condecora chefe de milícia na prisão e emprega parentes de pistoleiro não tem autoridade moral para falar de combater o crime. Segurança de verdade nós fazemos com a Polícia Federal prendendo o crime organizado e apreendendo bilhões do narcotráfico, sem apadrinhar miliciano.
+
+#### 3. Direção de Palco
+Sem hesitação. Falar as palavras "Medalha Tiradentes dentro da cadeia" pausadamente para que cada sílaba ressoe no estúdio. Manter a postura altiva de quem defende a lei e a ordem republicana.
+
+#### 4. Objetivo Tático
+Capitalizar a repercussão massiva nas redes e buscas ("Flávio miliciano" / Desmascarando), desarmando o discurso de segurança pública da extrema-direita através da ligação documental com Adriano da Nóbrega.
+
+---
+
+### Cena 22: Lula Cobra a Abin Paralela e a Reunião de 2020
+- **Bloco:** BLOCO 3
+- **TC:** [01:18]
 - **Duração da Resposta:** 1 min
 - **Confronto Direto:** Sim
 
@@ -508,11 +645,12 @@ Tom solene de defesa institucional. Sem ironia nesta cena. Falar pausadamente, c
 #### 4. Objetivo Tático
 Elevar o confronto ao plano institucional, falar ao eleitor de centro que valoriza o Estado de Direito e ligar o caso pessoal de Flávio ao risco democrático.
 
+
 ---
 
-### Cena 19: Pautas de Costumes — Drogas, Aborto e Castração Química
+### Cena 23: Pautas de Costumes — Drogas, Aborto e Castração Química
 - **Bloco:** BLOCO 3
-- **TC:** [01:13]
+- **TC:** [01:21]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Sim
 
@@ -535,11 +673,12 @@ Tom pessoal e sereno ao falar de fé, mão no peito na primeira frase. Firmeza a
 #### 4. Objetivo Tático
 Neutralizar o gatilho moral com posição pessoal clara, recusar a instrumentalização da religião e redirecionar o tema "família" para a licença-maternidade e para a vida concreta das famílias.
 
+
 ---
 
-### Cena 20: Tema Sorteado — Relações Internacionais, Venezuela e Democracia
+### Cena 24: Tema Sorteado — Relações Internacionais, Venezuela e Democracia
 - **Bloco:** BLOCO 4
-- **TC:** [01:20]
+- **TC:** [01:26]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Não
 
@@ -560,11 +699,12 @@ Tom de chefe de Estado, sem paixão excessiva. Na menção ao 8 de janeiro, paus
 #### 4. Objetivo Tático
 Responder ao eleitor de centro com a posição firme sobre as atas venezuelanas e inverter o tema "democracia" com a memória do 8 de janeiro.
 
+
 ---
 
-### Cena 21: Tema Sorteado — Emprego, Escala 6x1 e o MEI
+### Cena 25: Tema Sorteado — Emprego, Escala 6x1 e o MEI
 - **Bloco:** BLOCO 4
-- **TC:** [01:25]
+- **TC:** [01:31]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Não
 
@@ -589,11 +729,12 @@ Tom de quem fala de dentro da realidade do trabalhador, com empatia. Responder p
 #### 4. Objetivo Tático
 Apropriar-se do tema emprego com o recorde de desemprego baixo, acolher o pequeno empresário e expor a contradição entre o discurso televisivo de Flávio e a agenda de seu grupo político.
 
+
 ---
 
-### Cena 22: Tema Sorteado — Meio Ambiente e Amazônia
+### Cena 26: Tema Sorteado — Meio Ambiente e Amazônia
 - **Bloco:** BLOCO 4
-- **TC:** [01:30]
+- **TC:** [01:36]
 - **Duração da Resposta:** 1 min 30 s
 - **Confronto Direto:** Não
 
@@ -618,11 +759,43 @@ Tom conciliador com o agronegócio, sem confronto com o produtor. A crítica é 
 #### 4. Objetivo Tático
 Retirar de Flávio a representação exclusiva do agronegócio, unir produção e preservação no mesmo discurso e associar o governo anterior ao prejuízo comercial causado pela imagem ambiental do país.
 
+
 ---
 
-### Cena 23: Intervenção de Tralli — Deboche no Split-Screen e "Cascas de Banana"
+### Cena 27: O Pânico do "Fato ou Fake" da Globo e o Recorde de Declarações Falsas
 - **Bloco:** BLOCO 4
-- **TC:** [01:34]
+- **TC:** [01:40]
+- **Duração da Resposta:** 1 min 15 s
+- **Confronto Direto:** Não
+
+#### 1. A Pergunta do Mediador (César Tralli) e o Ataque de Flávio
+- **1º Momento — Flávio Bolsonaro**: "O governo do PT bateu recorde de corrupção, gastou R$ 7 bilhões em viagens de luxo e acabou com a saúde pública. O povo brasileiro não aguenta mais mentiras e desmandos."
+- **2º Momento — César Tralli**: "Presidente Lula, seu tempo de resposta."
+
+#### 2. Resposta Recomendada de Lula (Simulação)
+> Obrigado, César.
+>
+> *(Olhando diretamente para a Câmera 1, puxando o público para perto)*
+>
+> Você que está nos assistindo agora: pegue o seu celular e entre na página do **Fato ou Fake, aqui do portal G1**.
+>
+> O senador acabou de soltar aqui a mentira de que eu gastei R$ 7 bilhões em viagens. As agências de checagem do Estadão e do próprio G1 já desmentiram isso: esse valor é o total de viagens a trabalho de milhares de servidores do Estado brasileiro. Mas ele insiste na mentira porque sabe que na TV não tem interrupção.
+>
+> Ele foi o campeão de declarações falsas e distorcidas no último debate. Mais de um milhão de cidadãos pediram checagem ao vivo exatamente para evitar esse tipo de desespero.
+>
+> A verdade não tem medo de checagem, senador. Quem tem medo de checagem ao vivo é quem só sobrevive de notícia falsa no WhatsApp.
+
+#### 3. Direção de Palco
+Gesto de falar com o espectador em casa, apontando suavemente para o celular. Tom esclarecedor e tranquilo, sem parecer zangado. Usar a autoridade da própria emissora (G1 / Fato ou Fake) para conferir credibilidade instantânea.
+
+#### 4. Objetivo Tático
+Engajar o telespectador em tempo real a conferir os dados no G1, desarmar a mentira recorrente dos R$ 7 bilhões e explorar o pavor da campanha de Flávio quanto à checagem de fatos ao vivo.
+
+---
+
+### Cena 28: Intervenção de Tralli — Deboche no Split-Screen e "Cascas de Banana"
+- **Bloco:** BLOCO 4
+- **TC:** [01:43]
 - **Duração da Resposta:** 45 s
 - **Confronto Direto:** Sim
 
@@ -645,11 +818,12 @@ Não olhar para o adversário no enquadramento dividido enquanto ele debocha. Ag
 #### 4. Objetivo Tático
 Aplicar a Regra do Teto: não responder detalhe por detalhe, expor a manobra das cascas de banana e beneficiar-se da advertência pública de Tralli ao adversário.
 
+
 ---
 
-### Cena 24: Considerações Finais
+### Cena 29: Considerações Finais
 - **Bloco:** BLOCO 5
-- **TC:** [01:40]
+- **TC:** [01:48]
 - **Duração da Resposta:** 2 min
 - **Confronto Direto:** Não
 
@@ -675,6 +849,7 @@ Considerações finais olhando exclusivamente para a Câmera 1. Ritmo lento, voz
 #### 4. Objetivo Tático
 Fechar o debate com tom de estadista, resumir o contraste da noite (ataques e fugas de um lado, entregas do outro) e deixar a última imagem de serenidade e cuidado para os eleitores indecisos.
 
+
 ---
 
 ### Anexo — Pontos que Exigem Confirmação Factual Antes do Treino
@@ -695,5 +870,10 @@ As respostas acima seguem a linha da campanha, mas os itens abaixo devem ser che
 12. **"Proposta de trabalho flexível" do grupo político de Flávio:** a v2 cita uma "PEC nº 12"; confirmar número, autoria e conteúdo.
 13. **Lei antifacção e PEC da Segurança Pública:** citadas por Lula no registro da Band; confirmar a situação de tramitação na data do debate.
 14. **Ressarcimento aos aposentados do INSS:** confirmar valores e alcance do ressarcimento.
+15. **Churrasco no Lago Paranoá, lancha, Precisa Medicamentos e relógio Rolex (Cena 8):** reportagem "Uma tarde no lago" da Revista Piauí, repercutida pelo ICL Notícias; conferir depoimentos de Danilo Berndt Trento e Francisco Maximiano na CPI da Pandemia, o fretamento do jato executivo de SP com garotas de programa em 17/07/2020 e a intermediação de agendas no BNDES.
+16. **Media training de Tarcísio de Freitas e guinada "menos Marçal" (Cena 7):** reportagens de bastidores do Estadão, G1 e Folha de S.Paulo relatando o treinamento de postura em Brasília conduzido pelo governador de SP após críticas internas ao comportamento na Band (cola na mão, caretas e claque de Moro).
+17. **Proposta de R$ 200 bilhões para suspensão de dívidas e cortes no salário mínimo (Cena 15):** declarações de Flávio na Band checadas por G1 e Estadão; notas técnicas do DIEESE e Ministério da Fazenda sobre risco de calote sistêmico e propostas liberais de desvinculação do salário mínimo e da Previdência.
+18. **Buscas por "Flávio miliciano" e Medalha Tiradentes a Adriano da Nóbrega (Cena 21):** apurações do Desmascarando, ICL Notícias e registros do Google Trends sobre a condecoração entregue em 2005 na prisão preventiva e a nomeação de parentes (Raimunda e Danielle) no gabinete da Alerj com repasses de rachadinha.
+19. **Checagens do selo Fato ou Fake da TV Globo e Estadão Verifica sobre gastos em viagens (Cena 27):** levantamentos do G1/Fato ou Fake e petição pública com mais de 1 milhão de assinaturas cobrando checagem ao vivo no debate da Globo.
 
 **Itens deliberadamente não incluídos:** a acusação contra o vice de Flávio, usada no roteiro da Band, ficou fora desta simulação porque exige confirmação documental antes de ser repetida em um segundo debate. Se você quiser incluí-la, me avise.
