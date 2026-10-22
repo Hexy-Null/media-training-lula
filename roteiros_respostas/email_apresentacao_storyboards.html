@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minuta de E-mail — Storyboards de Media Training</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f1f5f9;
+      color: #1e293b;
+      margin: 0;
+      padding: 30px 15px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+      background: #ffffff;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+    }
+    .top-bar {
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .top-bar h1 {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .copy-btn {
+      background: #2563eb;
+      color: #ffffff;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: background 0.2s;
+    }
+    .copy-btn:hover {
+      background: #1d4ed8;
+    }
+    .email-content {
+      padding: 32px;
+      font-size: 15px;
+      color: #1e293b;
+    }
+    .subject-line {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      padding: 12px 16px;
+      border-radius: 6px;
+      margin-bottom: 24px;
+      font-family: monospace;
+      font-size: 14px;
+    }
+    .badge-urgent {
+      display: inline-block;
+      background: #fee2e2;
+      color: #991b1b;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      margin-right: 6px;
+    }
+    .section-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #0f172a;
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 6px;
+      margin-top: 28px;
+      margin-bottom: 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .callout-box {
+      background: #f8fafc;
+      border-left: 4px solid #2563eb;
+      padding: 14px 18px;
+      margin: 18px 0;
+      border-radius: 0 6px 6px 0;
+    }
+    .new-items {
+      margin: 0;
+      padding-left: 20px;
+    }
+    .new-items li {
+      margin-bottom: 12px;
+    }
+    .doc-pill {
+      display: inline-block;
+      background: #e0f2fe;
+      color: #0369a1;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+      font-size: 13px;
+    }
+    .ps-box {
+      margin-top: 28px;
+      padding: 14px 18px;
+      background: #fffbeb;
+      border-left: 4px solid #d97706;
+      border-radius: 0 6px 6px 0;
+      font-size: 14px;
+      color: #92400e;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="top-bar">
+      <h1>Minuta Executiva de Media Training</h1>
+      <button class="copy-btn" id="btnCopiar" onclick="copiarEmail()">
+        📋 Copiar E-mail Formatado
+      </button>
+    </div>
+
+    <div class="email-content" id="corpoEmail">
+      <div class="subject-line">
+        <strong>ASSUNTO:</strong> <span class="badge-urgent">[ATUALIZAÇÃO URGENTE]</span> Material de Media Training: Simulação TV Globo com Fatos das Últimas 24h
+      </div>
+
+      <p>Prezada equipe,</p>
+
+      <p>Este é um <strong>NOVO E-MAIL</strong> com a versão revisada, atualizada e substancialmente expandida do material de media training enviado anteriormente.</p>
+
+      <p>Nas últimas 24 horas, vieram a público investigações de <strong>altíssimo impacto político e eleitoral</strong> sobre a candidatura do senador Flávio Bolsonaro (apuradas por veículos como <em>Revista Piauí</em>, <em>ICL Notícias</em>, <em>Estadão</em>, <em>G1</em> e <em>Desmascarando</em>).</p>
+
+      <p>Diante dessas revelações cruciais para o debate de amanhã na TV Globo, <strong>atualizamos imediatamente a simulação em anexo</strong> (agora ampliada para <strong>30 páginas e 29 cenas completas</strong>), incorporando novas linhas de confronto que o Presidente Lula pode explorar no palco.</p>
+
+      <div class="section-title">🚨 O Que Há de Novo Neste Envio (Fatos das Últimas 24 Horas)</div>
+
+      <p>Sem remover nenhum dos cenários anteriores, incorporamos <strong>5 novas cenas decisivas</strong> no Anexo 2:</p>
+
+      <ol class="new-items">
+        <li><strong>A Lancha da Covaxin, Garotas de Programa e o Rolex de Presente (<em>Revista Piauí</em> e <em>ICL Notícias</em>):</strong><br>
+        O churrasco em 17/07/2020 no Lago Paranoá em pleno auge da pandemia com Francisco Maximiano e Danilo Trento (donos da <em>Precisa Medicamentos</em>), garotas de programa trazidas em jato de SP e o relógio Rolex presenteado a Flávio enquanto milhares de brasileiros morriam sufocados sem oxigênio.</li>
+
+        <li><strong>A Tutela de Tarcísio e a Máscara de "Estadista" (<em>Estadão</em> e <em>G1</em>):</strong><br>
+        A crise na campanha bolsonarista após o papelão histriônico na Band (<em>caretas, cola de caneta na mão e imitação de Pablo Marçal</em>) e o treinamento de última hora feito por Tarcísio de Freitas em Brasília para forçar uma pose artificial de moderado técnico.</li>
+
+        <li><strong>O Golpe da "Suspensão de Dívidas" e Cortes no Salário Mínimo (<em>G1</em>, <em>Estadão</em> e <em>DIEESE</em>):</strong><br>
+        O estelionato eleitoral da proposta de R$ 200 bilhões para congelar dívidas vs. o sucesso comprovado do <em>Desenrola Brasil</em>, além da denúncia do plano de desvincular o salário mínimo e aposentadorias da inflação.</li>
+
+        <li><strong>A Explosão de Buscas por "Flávio Miliciano" (<em>Desmascarando</em> e <em>Google Trends</em>):</strong><br>
+        O recorde histórico de buscas na internet após a Band e a lembrança documental da entrega da <em>Medalha Tiradentes dentro da cadeia</em> ao capitão Adriano da Nóbrega (chefe do <em>Escritório do Crime</em>), além de parentes do miliciano empregados na Alerj com repasses de <em>rachadinha</em>.</li>
+
+        <li><strong>O Pânico da Checagem ao Vivo pelo "Fato ou Fake" da TV Globo (<em>G1</em> e <em>Estadão Verifica</em>):</strong><br>
+        A convocação do telespectador em tempo real para consultar o selo <em>Fato ou Fake</em> do G1 no celular e desmentir a mentira recorrente dos R$ 7 bilhões em viagens institucionais.</li>
+      </ol>
+
+      <div class="section-title">🎯 Alerta Estratégico e Direção de Palco</div>
+
+      <div class="callout-box">
+        <p style="margin-top:0;"><strong>Diretrizes Críticas para o Presidente Lula em Cena:</strong></p>
+        <p>A estratégia de Flávio Bolsonaro será tentar desestabilizá-lo com ataques à família, amigos e provocações da Lava Jato. O Presidente <strong>não pode cair na provocação em hipótese alguma</strong>:</p>
+        <ul style="margin-bottom:0; padding-left:20px;">
+          <li><strong>Tom de Voz e Postura:</strong> Não dar risadas em tom jocoso ou fazer piadas. O tom precisa ser permanentemente sério, respeitoso, sereno e focado no eleitor em casa.</li>
+          <li><strong>Movimentação no Palco:</strong> Cuidado redobrado ao caminhar pelo estúdio para não ultrapassar as marcas de luz e sair dos pontos de iluminação.</li>
+          <li><strong>Neutralização do "Papagaio de Pirata":</strong> Caso Flávio comece a fazer caras e bocas de deboche atrás do enquadramento, Lula deve se posicionar no púlpito para cortar o ganho de imagem do adversário.</li>
+          <li><strong>Identificação da Câmera Correta:</strong> Treinar a identificação imediata da câmera no ar através da luz vermelha (<em>tally light</em>) e retornos de estúdio, dominando as transições de olhar com naturalidade.</li>
+        </ul>
+      </div>
+
+      <div class="section-title">📂 1. Os Documentos em Anexo</div>
+
+      <ul style="padding-left:20px;">
+        <li style="margin-bottom:10px;">
+          <strong>Anexo 1: <span class="doc-pill">como_lula_deveria_ter_respondido_no_debate_da_band.pdf</span> (21 páginas)</strong><br>
+          Diagnóstico estratégico do primeiro debate com 20 cenas reestruturadas. Desmonta provocações e fixa respostas ancoradas em dados e na realidade do trabalhador.
+        </li>
+        <li style="margin-bottom:10px;">
+          <strong>Anexo 2: <span class="doc-pill">como_lula_deve_responder_no_debate_da_globo.pdf</span> (30 páginas — VERSÃO ATUALIZADA)</strong><br>
+          Simulação completa e expandida para o confronto de amanhã na TV Globo sob mediação de César Tralli. Contém <strong>29 cenas em 5 blocos</strong>, somando às pautas anteriores todas as revelações investigativas das últimas 24 horas.
+        </li>
+      </ul>
+
+      <div class="section-title">⚙️ 2. Metodologia Utilizada</div>
+
+      <ul style="padding-left:20px;">
+        <li><strong>Formato Ficha de Estúdio (1 cena por página):</strong> Roteiro visual com enquadramento de câmeras (CAM 01, CAM 02 e CAM 03), controle estrito de tempo e cartões cênicos de postura e gestos.</li>
+        <li><strong>A Regra dos 15 Segundos:</strong> Desarmar acusações logo no início com um fato incontestável e direcionar o restante do tempo para propostas concretas para o trabalhador.</li>
+        <li><strong>Fixação na Câmera 1:</strong> Foco prioritário no eleitor em casa, evitando desgaste e bate-bocas paralelos no palco.</li>
+      </ul>
+
+      <div class="section-title">⏱️ 3. Como Utilizar no Treinamento</div>
+
+      <p>O material foi desenhado para leitura dinâmica em mesa de ensaio ou simulação de púlpito:</p>
+      <ol style="padding-left:20px;">
+        <li>Um assessor lê as falas de Flávio com o tom combativo indicado no roteiro;</li>
+        <li>Outro assessor atua como mediador controlando o cronômetro oficial;</li>
+        <li>O candidato treina a cadência de fala e a transição de olhar para a câmera principal.</li>
+      </ol>
+
+      <p style="margin-top:24px;">Estamos à disposição para ajustes e suporte durante os ensaios.</p>
+
+      <p>Atenciosamente,<br>
+      <strong>Hexy Null</strong></p>
+
+      <div class="ps-box">
+        <strong>P.S.:</strong> Conforme informado no primeiro envio, continuarei enviando este material todos os dias e a cada atualização relevante até algum assessor me responder que recebeu o conteúdo e que levará o material ao Presidente.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function copiarEmail() {
+      const conteudo = document.getElementById('corpoEmail');
+      
+      // Cria range para selecionar o HTML formatado
+      const range = document.createRange();
+      range.selectNode(conteudo);
+      window.getSelection().removeAllRanges();
+      window.getSelection().addRange(range);
+      
+      try {
+        document.execCommand('copy');
+        const btn = document.getElementById('btnCopiar');
+        const originalText = btn.innerHTML;
+        btn.innerHTML = '✅ Copiado com Sucesso!';
+        btn.style.background = '#16a34a';
+        setTimeout(() => {
+          btn.innerHTML = originalText;
+          btn.style.background = '#2563eb';
+        }, 2500);
+      } catch (err) {
+        alert('Não foi possível copiar automaticamente. Por favor, selecione o texto e use Ctrl+C.');
+      }
+      window.getSelection().removeAllRanges();
+    }
+  </script>
+
+</body>
+</html>
