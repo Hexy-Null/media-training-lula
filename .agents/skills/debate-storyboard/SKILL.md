@@ -143,7 +143,7 @@ Each scene represents one complete TV round:
 # Execution Workflow
 
 ### Step 1: Parse and Normalize the Debate Script
-Extract each scene using a Python parser (such as [parse_scenes.py](scripts/generate_storyboard.py)):
+Extract each scene using a Python parser (such as [scripts/generate_storyboard.py](scripts/generate_storyboard.py)):
 1. Split by scene headers (`### Cena XX:`).
 2. Extract Timecode, Block, Opponent name, and Title.
 3. Parse attacks, including sub-moments:

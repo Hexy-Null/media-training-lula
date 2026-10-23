@@ -1,4 +1,4 @@
-﻿---
+---
 trigger: model_decision
 description: Python rules for uv dependency management, modern typing, and RST docstrings.
 ---
